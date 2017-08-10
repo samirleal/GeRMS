@@ -1,2 +1,2 @@
 # GeRMS
-Group Project Repository for the Software Engineering project. Gustavo, Ryan, Mark, Samir.  
+Software Engineering Project with Gustavo, Ryan, and Sam
